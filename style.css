@@ -1,0 +1,19 @@
+body {
+    background: url(https://img2.goodfon.ru/wallpaper/nbig/0/29/kosmos-3d-art-planeta-sputnik.jpg) ;
+    background-size: 100%;
+}
+.main1 {
+    text-align: center;
+}
+.main2 {
+    text-align: center;
+    color: white;
+    font-size: 15pt;
+}
+p {
+    color: white;
+    font-size: 15pt;
+}
+footer {
+    color: aqua;
+}
